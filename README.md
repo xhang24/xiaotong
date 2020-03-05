@@ -10,6 +10,6 @@ https://github.com/xhang24/xiaotong/blob/master/src/%E2%80%9Coption_combinations
 
 - [HW5(1)](hw5 proof.pdf)
 - [HW5 code ](src/hw5.ipynb)
-
+- [HW6(1)](hw6 proof.pdf)
 - [HW6 code ](src/hw6.ipynb)
 
