@@ -12,4 +12,5 @@ https://github.com/xhang24/xiaotong/blob/master/src/%E2%80%9Coption_combinations
 - [HW5 code ](src/hw5.ipynb)
 - [HW6(1)](hw6 proof.pdf)
 - [HW6 code ](src/hw6.ipynb)
-
+- [HW7 code ](src/hw7.ipynb)
+- [HW7(1)](hw7 proof.pdf)
