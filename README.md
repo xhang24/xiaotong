@@ -22,3 +22,4 @@ https://github.com/xhang24/xiaotong/blob/master/src/%E2%80%9Coption_combinations
 - [HW10 code ](src/hw10.ipynb)
 - [HW11 code ](src/hw11.ipynb)
 - [HW11(1)](hw11 proof.pdf)
+- [HW12(1)](hw12 proof.pdf)
